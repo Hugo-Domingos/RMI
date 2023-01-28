@@ -1,0 +1,216 @@
+{
+	"BUILD_DIR" : "/home/hugo/RMI/RMI/build/logplayer/logplayer_autogen",
+	"CMAKE_BINARY_DIR" : "/home/hugo/RMI/RMI/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/hugo/RMI/RMI/build/logplayer",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/hugo/RMI/RMI/logplayer",
+	"CMAKE_EXECUTABLE" : "/home/hugo/.local/lib/python3.8/site-packages/cmake/data/bin/cmake",
+	"CMAKE_LIST_FILES" : [ "/home/hugo/RMI/RMI/logplayer/CMakeLists.txt" ],
+	"CMAKE_SOURCE_DIR" : "/home/hugo/RMI/RMI",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/home/hugo/RMI/RMI/logplayer/cbbeacon.h",
+			"MU",
+			"EWIEGA46WW/moc_cbbeacon.cpp",
+			null
+		],
+		[
+			"/home/hugo/RMI/RMI/logplayer/cbclient.h",
+			"MU",
+			"EWIEGA46WW/moc_cbclient.cpp",
+			null
+		],
+		[
+			"/home/hugo/RMI/RMI/logplayer/cbgrid.h",
+			"MU",
+			"EWIEGA46WW/moc_cbgrid.cpp",
+			null
+		],
+		[
+			"/home/hugo/RMI/RMI/logplayer/cbgridhandler.h",
+			"MU",
+			"EWIEGA46WW/moc_cbgridhandler.cpp",
+			null
+		],
+		[
+			"/home/hugo/RMI/RMI/logplayer/cblab.h",
+			"MU",
+			"EWIEGA46WW/moc_cblab.cpp",
+			null
+		],
+		[
+			"/home/hugo/RMI/RMI/logplayer/cblabhandler.h",
+			"MU",
+			"EWIEGA46WW/moc_cblabhandler.cpp",
+			null
+		],
+		[
+			"/home/hugo/RMI/RMI/logplayer/cbloghandler.h",
+			"MU",
+			"EWIEGA46WW/moc_cbloghandler.cpp",
+			null
+		],
+		[
+			"/home/hugo/RMI/RMI/logplayer/cblogplayer.h",
+			"MU",
+			"EWIEGA46WW/moc_cblogplayer.cpp",
+			null
+		],
+		[
+			"/home/hugo/RMI/RMI/logplayer/cbparameters.h",
+			"MU",
+			"EWIEGA46WW/moc_cbparameters.cpp",
+			null
+		],
+		[
+			"/home/hugo/RMI/RMI/logplayer/cbparamhandler.h",
+			"MU",
+			"EWIEGA46WW/moc_cbparamhandler.cpp",
+			null
+		],
+		[
+			"/home/hugo/RMI/RMI/logplayer/cbpoint.h",
+			"MU",
+			"EWIEGA46WW/moc_cbpoint.cpp",
+			null
+		],
+		[
+			"/home/hugo/RMI/RMI/logplayer/cbposition.h",
+			"MU",
+			"EWIEGA46WW/moc_cbposition.cpp",
+			null
+		],
+		[
+			"/home/hugo/RMI/RMI/logplayer/cbreceptionhandler.h",
+			"MU",
+			"EWIEGA46WW/moc_cbreceptionhandler.cpp",
+			null
+		],
+		[
+			"/home/hugo/RMI/RMI/logplayer/cbreceptionist.h",
+			"MU",
+			"EWIEGA46WW/moc_cbreceptionist.cpp",
+			null
+		],
+		[
+			"/home/hugo/RMI/RMI/logplayer/cbrobot.h",
+			"MU",
+			"EWIEGA46WW/moc_cbrobot.cpp",
+			null
+		],
+		[
+			"/home/hugo/RMI/RMI/logplayer/cbtarget.h",
+			"MU",
+			"EWIEGA46WW/moc_cbtarget.cpp",
+			null
+		],
+		[
+			"/home/hugo/RMI/RMI/logplayer/cbview.h",
+			"MU",
+			"EWIEGA46WW/moc_cbview.cpp",
+			null
+		],
+		[
+			"/home/hugo/RMI/RMI/logplayer/cbviewhandler.h",
+			"MU",
+			"EWIEGA46WW/moc_cbviewhandler.cpp",
+			null
+		],
+		[
+			"/home/hugo/RMI/RMI/logplayer/cbwall.h",
+			"MU",
+			"EWIEGA46WW/moc_cbwall.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/hugo/RMI/RMI/build/logplayer/logplayer_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/hugo/RMI/RMI/build/logplayer/logplayer_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NETWORK_LIB",
+		"QT_NO_DEBUG",
+		"QT_WIDGETS_LIB",
+		"QT_XML_LIB"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/hugo/RMI/RMI/logplayer",
+		"/home/hugo/RMI/RMI/build/logplayer",
+		"/usr/include/x86_64-linux-gnu/qt5",
+		"/usr/include/x86_64-linux-gnu/qt5/QtWidgets",
+		"/usr/include/x86_64-linux-gnu/qt5/QtGui",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore",
+		"/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++",
+		"/usr/include/x86_64-linux-gnu/qt5/QtNetwork",
+		"/usr/include/x86_64-linux-gnu/qt5/QtXml",
+		"/usr/include/c++/9",
+		"/usr/include/x86_64-linux-gnu/c++/9",
+		"/usr/include/c++/9/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/9/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/home/hugo/.local/lib/python3.8/site-packages/cmake/data/share/cmake-3.22/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/hugo/RMI/RMI/build/logplayer/logplayer_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/home/hugo/RMI/RMI/build/logplayer/CMakeFiles/logplayer_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/usr/lib/qt5/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 12,
+	"SETTINGS_FILE" : "/home/hugo/RMI/RMI/build/logplayer/CMakeFiles/logplayer_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "/home/hugo/RMI/RMI/logplayer/cbbeacon.cpp", "MU", null ],
+		[ "/home/hugo/RMI/RMI/logplayer/cbclient.cpp", "MU", null ],
+		[ "/home/hugo/RMI/RMI/logplayer/cbgrid.cpp", "MU", null ],
+		[ "/home/hugo/RMI/RMI/logplayer/cbgridhandler.cpp", "MU", null ],
+		[ "/home/hugo/RMI/RMI/logplayer/cblab.cpp", "MU", null ],
+		[ "/home/hugo/RMI/RMI/logplayer/cblabhandler.cpp", "MU", null ],
+		[ "/home/hugo/RMI/RMI/logplayer/cbloghandler.cpp", "MU", null ],
+		[ "/home/hugo/RMI/RMI/logplayer/cblogplayer.cpp", "MU", null ],
+		[ "/home/hugo/RMI/RMI/logplayer/cbparameters.cpp", "MU", null ],
+		[ "/home/hugo/RMI/RMI/logplayer/cbparamhandler.cpp", "MU", null ],
+		[ "/home/hugo/RMI/RMI/logplayer/cbpoint.cpp", "MU", null ],
+		[ "/home/hugo/RMI/RMI/logplayer/cbposition.cpp", "MU", null ],
+		[ "/home/hugo/RMI/RMI/logplayer/cbreceptionhandler.cpp", "MU", null ],
+		[ "/home/hugo/RMI/RMI/logplayer/cbreceptionist.cpp", "MU", null ],
+		[ "/home/hugo/RMI/RMI/logplayer/cbrobot.cpp", "MU", null ],
+		[ "/home/hugo/RMI/RMI/logplayer/cbtarget.cpp", "MU", null ],
+		[ "/home/hugo/RMI/RMI/logplayer/cbview.cpp", "MU", null ],
+		[ "/home/hugo/RMI/RMI/logplayer/cbviewhandler.cpp", "MU", null ],
+		[ "/home/hugo/RMI/RMI/logplayer/cbwall.cpp", "MU", null ],
+		[ "/home/hugo/RMI/RMI/logplayer/logplayer.cpp", "MU", null ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}
